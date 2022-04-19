@@ -1,0 +1,20 @@
+
+.read-more{
+    background-color: #f1f6fa;
+    border: 1px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.btn-service{
+    background-color: #253b80;
+    color: white;
+    border: 1px solid #f4f7fc;
+}
+.article-img{
+    height: 190px;
+}
+.card-article{
+    background-color: #f1f6fa;
+}

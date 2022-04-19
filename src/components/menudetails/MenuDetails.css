@@ -1,0 +1,22 @@
+.des{
+    text-align: justify;
+}
+.bg-details{
+    background-color: #d1d2d7;
+}
+.img-details{
+    padding-top: 80px;
+    width: 500px;
+    height: 600px;
+}
+.menu-details{
+    background-color: #d1d2d7;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+}
+.menu-heading{
+    font-size: 80px;
+    padding-top: 100px;
+}

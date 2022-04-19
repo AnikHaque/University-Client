@@ -1,0 +1,18 @@
+.footer{
+    background-color: #f1f6fa;
+    color: black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+    
+}
+.btn-footer{
+ 
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 100px;
+}
+.footer-2nd{
+    margin-top: 60px;
+}

@@ -1,0 +1,30 @@
+.banner-image{
+    height: 550px;
+    margin-top: 20px;
+}
+.classic{
+    color: gray;
+}
+.generation{
+    color: darksalmon;
+}
+.banner{
+   background-color: #d1d2d7;
+  
+    background-position: center;
+    background-size: cover;
+    height: auto;
+}
+.banner-title{
+    font-weight: bolder;
+  font-size: 3.5rem;
+  padding-top: 6.5rem;
+   
+}
+.banner-p{
+    font-size: 1.5rem;
+}
+
+.btn-banner{
+    background-color: #253b80;
+}

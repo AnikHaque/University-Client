@@ -1,0 +1,13 @@
+.visit{
+    background-image: url("https://university.cactusthemes.com/wp-content/uploads/2014/07/section-background.jpg?id=3127");
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    padding: 70px;
+}
+.visit-heading{
+    font-size: 4rem;
+}
+.visit-short{
+    padding-top: 120px;
+}
